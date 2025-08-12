@@ -1,0 +1,322 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Almaida
+    probability: 1
+  - name: Andunie
+    probability: 1
+  - name: Annuminas
+    probability: 1
+  - name: Archet
+    probability: 1
+  - name: Armenelos
+    probability: 1
+  - name: Belegost
+    probability: 1
+  - name: Bree
+    probability: 1
+  - name: Breredon
+    probability: 1
+  - name: Brithombar
+    probability: 1
+  - name: Bucklebury
+    probability: 1
+  - name: Budgeford
+    probability: 1
+  - name: Bywater
+    probability: 1
+  - name: Calembel
+    probability: 1
+  - name: Caras Galadhon
+    probability: 1
+  - name: City of the Corsairs
+    probability: 1
+  - name: Crickhollow
+    probability: 1
+  - name: Combe
+    probability: 1
+  - name: Dale
+    probability: 1
+  - name: Deephallow
+    probability: 1
+  - name: Dol Amroth
+    probability: 1
+  - name: Dwaling
+    probability: 1
+  - name: Edhellond
+    probability: 1
+  - name: Edoras
+    probability: 1
+  - name: Eglarest
+    probability: 1
+  - name: Eldalonde
+    probability: 1
+  - name: Ephel Brandir
+    probability: 1
+  - name: Ethring
+    probability: 1
+  - name: Fornost
+    probability: 1
+  - name: Framsburg
+    probability: 1
+  - name: Frogmorton
+    probability: 1
+  - name: Gamwich
+    probability: 1
+  - name: Goblin-town
+    probability: 1
+  - name: Gondolin
+    probability: 1
+  - name: Greenholm
+    probability: 1
+  - name: Grey Havens
+    probability: 1
+  - name: Hardbottle
+    probability: 1
+  - name: Haysend
+    probability: 1
+  - name: Hobbiton
+    probability: 1
+  - name: Khazad-dum
+    probability: 1
+  - name: Lake-town
+    probability: 1
+  - name: Linhir
+    probability: 1
+  - name: Little Delving
+    probability: 1
+  - name: Lond Daer
+    probability: 1
+  - name: Longbottom
+    probability: 1
+  - name: Long Cleeve
+    probability: 1
+  - name: Menegroth
+    probability: 1
+  - name: Michel Delving
+    probability: 1
+  - name: Minas Tirith
+    probability: 1
+  - name: Nargothrond
+    probability: 1
+  - name: Needlehole
+    probability: 1
+  - name: Newbury
+    probability: 1
+  - name: Nindamos
+    probability: 1
+  - name: Nobottle
+    probability: 1
+  - name: Nogrod
+    probability: 1
+  - name: Oatbarton
+    probability: 1
+  - name: Osgiliath
+    probability: 1
+  - name: Ost-in-Edhil
+    probability: 1
+  - name: Overhill
+    probability: 1
+  - name: Pelargir
+    probability: 1
+  - name: Pincup
+    probability: 1
+  - name: Romenna
+    probability: 1
+  - name: Rushey
+    probability: 1
+  - name: Scary
+    probability: 1
+  - name: Staddle
+    probability: 1
+  - name: Standelf
+    probability: 1
+  - name: Stock
+    probability: 1
+  - name: Tharbad
+    probability: 1
+  - name: Tighfield
+    probability: 1
+  - name: Tookbank
+    probability: 1
+  - name: Tuckborough
+    probability: 1
+  - name: Underharrow
+    probability: 1
+  - name: Upbourn
+    probability: 1
+  - name: Waymeet
+    probability: 1
+  - name: Whitfurrows
+    probability: 1
+  - name: Whitwell
+    probability: 1
+  - name: Whitwell
+    probability: 1
+  - name: Willowbottom
+    probability: 1
+  - name: Woodhall
+    probability: 1
+  - name: Anfalas
+    probability: 1
+  - name: The Angle
+    probability: 1
+  - name: Angmar
+    probability: 1
+  - name: Anorien
+    probability: 1
+  - name: Arnor
+    probability: 1
+  - name: Arthedain
+    probability: 1
+  - name: Belfalas
+    probability: 1
+  - name: Bree-land
+    probability: 1
+  - name: Buckland
+    probability: 1
+  - name: Cardolan
+    probability: 1
+  - name: Dimbar
+    probability: 1
+  - name: Dor-lomin
+    probability: 1
+  - name: Doriath
+    probability: 1
+  - name: Dorwinion
+    probability: 1
+  - name: Druwaith Iaur
+    probability: 1
+  - name: Dunland
+    probability: 1
+  - name: Enedwaith
+    probability: 1
+  - name: Eregion
+    probability: 1
+  - name: Eriador
+    probability: 1
+  - name: Estolad
+    probability: 1
+  - name: Forodwaith
+    probability: 1
+  - name: Gondolin
+    probability: 1
+  - name: Gondor
+    probability: 1
+  - name: Harad
+    probability: 1
+  - name: Hithlum
+    probability: 1
+  - name: Ithilien
+    probability: 1
+  - name: Khand
+    probability: 1
+  - name: Lamedon
+    probability: 1
+  - name: Lebennin
+    probability: 1
+  - name: Lindon
+    probability: 1
+  - name: Lossarnach
+    probability: 1
+  - name: Lothlorien
+    probability: 1
+  - name: Minhiriath
+    probability: 1
+  - name: Mithrim
+    probability: 1
+  - name: Mordor
+    probability: 1
+  - name: Nevrast
+    probability: 1
+  - name: Nisimaldar
+    probability: 1
+  - name: Noman-lands
+    probability: 1
+  - name: Numenor
+    probability: 1
+  - name: Nurn
+    probability: 1
+  - name: Ossiriand
+    probability: 1
+  - name: Rhudaur
+    probability: 1
+  - name: Rhûn
+    probability: 1
+  - name: Rivendell
+    probability: 1
+  - name: Rohan
+    probability: 1
+  - name: The Shire
+    probability: 1
+  - name: South Gondor
+    probability: 1
+  - name: Tookland
+    probability: 1
+  - name: Westmarch
+    probability: 1
+  - name: Wilderland
+    probability: 1
+  - name: Kingdom under the Mountain
+    probability: 1
+  - name: Angband
+    probability: 1
+  - name: Barad-dur
+    probability: 1
+  - name: Barad Eithel
+    probability: 1
+  - name: Calmindon
+    probability: 1
+  - name: Carn Dum
+    probability: 1
+  - name: Dol Guldur
+    probability: 1
+  - name: Dome of Stars
+    probability: 1
+  - name: Dunharrow
+    probability: 1
+  - name: Durin's Tower
+    probability: 1
+  - name: Durthang
+    probability: 1
+  - name: Helm's Deep
+    probability: 1
+  - name: Isengard
+    probability: 1
+  - name: Menegroth
+    probability: 1
+  - name: Minas Anor
+    probability: 1
+  - name: Minas Ithil
+    probability: 1
+  - name: Minas Morgul
+    probability: 1
+  - name: Nargothrond
+    probability: 1
+  - name: Orthanc
+    probability: 1
+  - name: Tower of Amon Sul
+    probability: 1
+  - name: Tower of Cirith Ungol
+    probability: 1
+  - name: Tower of Ecthelion
+    probability: 1
+  - name: Towers of the Teeth
+    probability: 1
+  - name: Iron Hills
+    probability: 1
+  - name: Glittering Caves
+    probability: 1
+- names:
+  - name: ' '
+    probability: 1
+- names:
+  - name: ' '
+    probability: 1
+- names:
+  - name: ' '
+    probability: 1
+name: Middle Earth
+source: https://thainsbook.minastirith.cz/placeindex.html
+subsets: []

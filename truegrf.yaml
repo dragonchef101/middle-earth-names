@@ -1,4 +1,5 @@
-description: A new TrueGRF project
+description: Middle earth location and city names. This is my first anything, probably does not work with the middle earth scenario but I dunno
 license: CC0-1.0
+name: middle-earth-names
 type: townname
 version: 6
